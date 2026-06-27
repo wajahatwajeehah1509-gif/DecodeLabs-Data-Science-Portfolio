@@ -18,3 +18,9 @@ This project implements an end-to-end unsupervised learning pipeline designed to
 - **Cluster 1: High-Value Trendsetters** (High income, high spending score) -> *Action:* Early access & exclusive perks.
 - **Cluster 2: Budget-Conscious Explorers** (Low income, high spending score) -> *Action:* Flash sales & BNPL options.
 - **Cluster 3: Conservative Minimisers** (Low income, low spending score) -> *Action:* Clear price utility values.
+
+## 📸 Screenshots
+
+![Screenshot 1](Customer_segmentation.png)
+![Screenshot 2](PLOT_OUTPUT.png)
+![Screenshot 3](3D_PLOT_OUTPUT.png)
