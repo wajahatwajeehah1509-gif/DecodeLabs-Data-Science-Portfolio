@@ -23,3 +23,7 @@ This project is modularly split across 4 production scripts to handle the ingest
 ## Tech Stack
 - **Language:** Python
 - **Core Libraries:** Pandas, NumPy, Pandera, Feast, Matplotlib, Seaborn
+
+## 📸 Screenshots
+
+![Screenshot 1](data_validation_output.png)
