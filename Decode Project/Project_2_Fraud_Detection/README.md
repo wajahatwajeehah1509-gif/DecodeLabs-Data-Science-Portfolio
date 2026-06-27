@@ -29,3 +29,7 @@ Abandoned global accuracy (which gives a deceptive 99.83% success rate on a brok
 ## Tech Stack
 - **Language:** Python
 - **Core Libraries:** Imbalanced-Learn (`imblearn`), Scikit-Learn (`sklearn`), Pandas, NumPy, Matplotlib, Seaborn
+
+## 📸 Screenshots
+
+![Screenshot 1](Fraud_detection_output.png)
